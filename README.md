@@ -1,6 +1,9 @@
 # GCODE
 Using C# as a domain specific language that emits g-code
 
+
+![alt text](https://raw.githubusercontent.com/cartman300/GCODE/master/screenshots/Sp1XSn.png "Example")
+
 ```cs
 static void Main(string[] args) {
 	Feed(400);
